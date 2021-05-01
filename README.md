@@ -1,4 +1,4 @@
-# IPTV-LISTAS
+# lista.m3u
 #EXTM3U
  
  
